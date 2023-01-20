@@ -99,11 +99,11 @@ export default class App extends React.Component {
             <span>Active</span>
             <span className="visually-hidden"> tasks</span>
           </button>{" "}
-          {/* <button type="button" className="btn toggle-btn" aria-pressed="false">
+          <button type="button" className="btn toggle-btn" aria-pressed="false">
             <span className="visually-hidden">Show </span>
             <span>Completed</span>
             <span className="visually-hidden"> tasks</span>
-          </button> */}
+          </button>
         </div>
         <h2 id="list-heading">3 tasks remaining</h2>
         <ul
